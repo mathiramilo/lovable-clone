@@ -3,7 +3,14 @@
   "ignorePaths": [],
   "dictionaryDefinitions": [],
   "dictionaries": [],
-  "words": ["cmdk", "embla", "sonner", "turbopack", "vaul"],
+  "words": [
+    "cmdk",
+    "embla",
+    "inngest",
+    "sonner",
+    "turbopack",
+    "vaul"
+  ],
   "ignoreWords": [],
   "import": []
 }
